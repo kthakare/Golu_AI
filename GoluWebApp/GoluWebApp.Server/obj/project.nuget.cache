@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtnOgflDuKo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\csr\\goluappsharayu\\GoluWebApp\\GoluWebApp.Server\\GoluWebApp.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.8\\microsoft.aspnetcore.spaproxy.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

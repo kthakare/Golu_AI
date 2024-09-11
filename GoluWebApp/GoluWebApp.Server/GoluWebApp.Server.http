@@ -1,0 +1,6 @@
+@GoluWebApp.Server_HostAddress = http://localhost:5239
+
+GET {{GoluWebApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
